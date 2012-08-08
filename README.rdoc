@@ -1,3 +1,0 @@
-demo of use raphael to build a world heat map
-
-[raphael-heat-map-demo.herokuapp.com](raphael-heat-map-demo.herokuapp.com)
